@@ -1,9 +1,9 @@
 ## Setup
-For team members of this project, please run the following commands:
+This project use git and npm 
 
-```git clone https://github.com/cmpe165spring2019/ReactApp.git```
+```git clone https://github.com/nguyenhoa2896/profile_project2.git```
 
-```cd bunker```
+```cd profile_project2```
 
 ```npm install```
 
