@@ -15,3 +15,6 @@ To keep updated and get the latest commits from master
 ```git fetch origin```
 
 ```git rebase origin/master```
+
+## NOTE
+This project use react boiler-plate and react-firebase-authentication boilerplate
